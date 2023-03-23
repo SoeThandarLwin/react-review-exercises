@@ -4,6 +4,7 @@ import './App.css'
 // import Gallery from './components/Gallery'
 import './Styles/test.css'
 import StateAssignmentOne from './components/StateAssignmentOne'
+import StateAssignmentTwo from './components/StateAssignmentTwo'
 
 function App() {
 
@@ -13,7 +14,8 @@ function App() {
         {/* <FavoriteSites />
         <Profile />
         <Gallery /> */}
-        <StateAssignmentOne />
+        {/* <StateAssignmentOne /> */}
+        <StateAssignmentTwo />
       </div>
       
     </div>

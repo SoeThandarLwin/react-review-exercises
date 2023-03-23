@@ -53,3 +53,9 @@
 .Gallery img:hover {
     transform: scale(1.2, 1.2);
 }
+
+.state2 ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+}
