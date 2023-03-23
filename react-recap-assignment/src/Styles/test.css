@@ -1,0 +1,25 @@
+.test {
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.list a {
+    color: lightgreen;
+}
+
+.list a:hover {
+    color: red;
+}
+
+.Profile {
+    width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.Profile:hover {
+    border: 1px solid red;
+}
