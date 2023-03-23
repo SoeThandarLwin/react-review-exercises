@@ -23,3 +23,33 @@
 .Profile:hover {
     border: 1px solid red;
 }
+
+.Profile:hover h2 {
+    color: red;
+    transition: 1s;
+}
+
+.Gallery section {
+    text-align: center;
+    align-items: center;
+}
+
+.Gallery ul{
+    padding: 0;
+}
+
+.Gallery li {
+    list-style-type: none;
+}
+
+.Gallery {
+    margin: 20px;
+}
+
+.Gallery img {
+    transition: transform 1s;
+}
+
+.Gallery img:hover {
+    transform: scale(1.2, 1.2);
+}

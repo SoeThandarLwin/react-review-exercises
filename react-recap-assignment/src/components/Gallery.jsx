@@ -1,7 +1,7 @@
 function Gallery() {
   
     return (
-      <div className='test'>
+      <div className='Gallery'>
 
         <section>
             <h2>Gallery</h2>
