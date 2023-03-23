@@ -3,7 +3,6 @@ import FavoriteSites from './components/FavoriteSites'
 import Profile from './components/profile'
 import Gallery from './components/Gallery'
 import './Styles/test.css'
-import './Styles/Profile.css'
 
 function App() {
 
